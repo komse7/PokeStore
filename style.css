@@ -71,7 +71,9 @@ font-style: unset;
     font-size: 20px;
 }
 
-@media(max-widht:768px){
+@media(max-width:768px)
+{
 
-    .nosotross
+    .nosotross{max-width: 768px;}
+    .teexto{max-width: 768px;}
 }
