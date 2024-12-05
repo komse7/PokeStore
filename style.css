@@ -27,16 +27,23 @@ background-color: aqua }
     background-color: aqua;
 }
 
-.card-text{
-
+.teexto{
+display: grid;
+align-items: flex-end;
 font-size: 50px;
-
-
-
+width: 1450px;
+margin-left: 170px;
+margin-top: 20px;
+margin-bottom: 20px;
+height: auto;
+background-color: #fff;
+border-radius: 30px;
+box-shadow: 10px 10px #00000039;
+gap: 20px;
 }
 
 .card {
-background-color: rgb(196, 29, 29) 
+background-color: rgb(221, 61, 61) 
     
 }
 
@@ -59,4 +66,12 @@ background-color: rgb(196, 29, 29)
     align-items: center;
 }
 
+.nav-item{
+font-style: unset;
+    font-size: 20px;
+}
 
+@media(max-widht:768px){
+
+    .nosotross
+}
