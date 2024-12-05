@@ -3,7 +3,7 @@
 margin: 0;
 padding: 0;
 
-background-color: black;
+background-color: aqua;
 }
 
 .bodyindumentaria{
@@ -14,12 +14,49 @@ background-color: aqua;
 
 .carro{
 
-background-color: rgb(196, 29, 29) }
+background-color: aqua }
+
+.axesorio {
+
+    background-color: aqua;
+
+}
+
+.colexio {
+
+    background-color: aqua;
+}
+
+.card-text{
+
+font-size: 50px;
 
 
 
+}
+
+.card {
+background-color: rgb(196, 29, 29) 
+    
+}
+
+.nosotross{
+
+    background-color: aqua;
+}
+
+
+.separacion {
+
+    size: 100px;
+}
 
 
 
+.card-img-top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 
